@@ -1,0 +1,14 @@
+layout_spectrum: 0.6487455
+color:
+  saturation: 0.03308879
+  lightness: 0.2275986
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#00AA9D'
+    - '#007F76'
+    - '#00554F'
+    - '#002B27'
+  rhythmicContrast: 0.02778557
+typography_spectrum: 0.109319
+name: Kuku Mama
