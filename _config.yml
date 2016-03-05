@@ -1,14 +1,26 @@
-layout_spectrum: 0.6487455
 color:
   saturation: 0.03308879
-  lightness: 0.2275986
   brandStrength: 1
+  rhythmicContrast: 0.02778557
   brandColors:
     - '#000000'
     - '#00AA9D'
     - '#007F76'
     - '#00554F'
     - '#002B27'
-  rhythmicContrast: 0.02778557
+  lightness: 0.2275986
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.6487455
 typography_spectrum: 0.109319
 name: Kuku Mama
