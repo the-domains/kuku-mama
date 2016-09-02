@@ -1,4 +1,4 @@
-layout_spectrum: 0.7831541
+layout_spectrum: 0.6489362
 name: Kuku Mama
 collections:
   - index:
@@ -12,7 +12,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.109319
+typography_spectrum: 0.7914894
 color:
   brandStrength: 1
   lightness: 0.8085107
